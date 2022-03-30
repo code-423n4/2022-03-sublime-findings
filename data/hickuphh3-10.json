@@ -1,0 +1,9 @@
+{
+  "contest": 101,
+  "handle": "hickuphh3",
+  "address": "0xD5388291EAbe96b56069440C97046791E2F72573",
+  "risk": "3",
+  "title": "Interest accrued could be zero for small decimal tokens",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2022-03-sublime-findings/issues/10"
+}
