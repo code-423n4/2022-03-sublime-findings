@@ -1,0 +1,9 @@
+{
+  "contest": 101,
+  "handle": "rayn",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "3",
+  "title": "Incorrect value subtracted from `sharesHeld` for closed and liquidated pools in `LenderPool._withdrawLiquidity`",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2022-03-sublime-findings/issues/45"
+}
