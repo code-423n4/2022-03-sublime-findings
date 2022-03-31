@@ -1,0 +1,9 @@
+{
+  "contest": 101,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "2",
+  "title": "[WP-M7] Wrong design/implementation of interest accrued to the borrowers can make the lenders to end up getting much fewer amount of interest than expected",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2022-03-sublime-findings/issues/56"
+}
