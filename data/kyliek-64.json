@@ -1,0 +1,9 @@
+{
+  "contest": 101,
+  "handle": "kyliek",
+  "address": "0xdE624A36bcCd38DB850365b34Bc99ab3b1252415",
+  "risk": "2",
+  "title": "Potentially depositing at unfavorable rate since anyone can deposit the entire lenderPool to a known strategy at a pre-fixed time",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2022-03-sublime-findings/issues/64"
+}
