@@ -1,0 +1,9 @@
+{
+  "contest": 101,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "2",
+  "title": "Contracts don't work properly with fee-on-transfer/deflationary tokens",
+  "issueId": 38,
+  "issueUrl": "https://github.com/code-423n4/2022-03-sublime-findings/issues/38"
+}
